@@ -1,0 +1,4 @@
+Youtube has removed the ability to see dislikes from youtube videos. This is very dissappointing as most people believe that this was done to increase viewer retention on all videos accross the site. Removing the dislike button is removing the ability for the audience to provide feedback on whether the youtube video is good or relevant. 
+
+
+This script retrieves the dislike data from a youtube video that you already own and updates the title automatically. We are unable to use this script to see the data from other videos because the dislike data is not publically available, but is is privately available to the authenticated account. This method relies heavily on the Youtube API V3, and if google modifies the API further this script may loose its functionality. 
